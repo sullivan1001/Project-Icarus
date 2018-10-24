@@ -1,0 +1,1065 @@
+﻿Log file open, 10/24/18 15:52:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Icarus
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.278082
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.736s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="m8blazeit420" -epicuserid=787a2b7c5e194356ac4ed41d5e3fd1e1 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.24-22.52.56:660][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.24-22.52.56:660][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.24-22.52.56:735][  0]LogHAL: Display: Platform has ~ 8 GB [8501760000 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.24-22.52.56:736][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.24-22.52.56:736][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.24-22.52.56:736][  0]LogInit: Computer: LAPTOP-C1UGBE6K
+[2018.10.24-22.52.56:736][  0]LogInit: User: sully
+[2018.10.24-22.52.56:736][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.10.24-22.52.56:736][  0]LogInit: High frequency timer resolution =2.648439 MHz
+[2018.10.24-22.52.56:737][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.24-22.52.56:737][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.24-22.52.56:737][  0]LogMemory: Process Physical Memory: 99.88 MB used, 99.88 MB peak
+[2018.10.24-22.52.56:737][  0]LogMemory: Process Virtual Memory: 84.45 MB used, 84.45 MB peak
+[2018.10.24-22.52.56:737][  0]LogMemory: Physical Memory: 4126.06 MB used,  3981.85 MB free, 8107.91 MB total
+[2018.10.24-22.52.56:737][  0]LogMemory: Virtual Memory: 4621.34 MB used,  3981.85 MB free, 134217728.00 MB total
+[2018.10.24-22.52.56:784][  0]LogInit: Using OS detected language (en-US).
+[2018.10.24-22.52.56:784][  0]LogInit: Using OS detected locale (en-CA).
+[2018.10.24-22.52.56:786][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.24-22.52.57:558][  0]LogStreaming: Display: Took  0.774s to InitEngineTextLocalization.
+[2018.10.24-22.52.57:558][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.24-22.52.57:614][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.24-22.52.57:614][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.24-22.52.57:968][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.24-22.52.57:968][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.24-22.52.58:003][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.10.24-22.52.58:003][  0]LogD3D11RHI:       128/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.10.24-22.52.58:007][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.24-22.52.58:007][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.24-22.52.58:007][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.24-22.52.58:018][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.24-22.52.58:019][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.24-22.52.58:019][  0]LogWindows: EnumDisplayDevices:
+[2018.10.24-22.52.58:019][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.10.24-22.52.58:020][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.10.24-22.52.58:020][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.10.24-22.52.58:021][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.10.24-22.52.58:021][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.10.24-22.52.58:021][  0]LogD3D11RHI:   Driver Version: 21.20.16.4550 (internal:21.20.16.4550, unified:21.20.16.4550)
+[2018.10.24-22.52.58:021][  0]LogD3D11RHI:      Driver Date: 11-11-2016
+[2018.10.24-22.52.58:021][  0]LogRHI: Texture pool is 1508 MB (70% of 2154 MB)
+[2018.10.24-22.52.58:031][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.24-22.52.58:040][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.10.24-22.52.58:042][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Intermediate/Shaders/WorkingDirectory/5088/).
+[2018.10.24-22.52.58:042][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sully/AppData/Local/Temp/UnrealShaderWorkingDir/A269D2AB4104566FFE471185FA955EB0/'.
+[2018.10.24-22.52.58:564][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.24-22.52.58:585][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.24-22.52.58:608][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.24-22.52.58:631][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.24-22.52.58:652][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.24-22.52.58:675][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.24-22.52.58:701][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.24-22.52.58:727][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.24-22.52.58:738][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-22.52.58:859][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.24-22.52.58:931][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.24-22.52.58:931][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.24-22.52.58:960][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.24-22.52.58:960][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.24-22.52.58:974][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.24-22.52.58:991][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.24-22.52.59:006][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.24-22.52.59:025][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.24-22.52.59:036][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.24-22.52.59:036][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.24-22.52.59:129][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.24-22.52.59:129][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.24-22.52.59:129][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.24-22.53.00:279][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.24-22.53.00:835][  0]LogDerivedDataCache: Loaded boot cache 0.56s 87MB C:/Users/sully/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.24-22.53.00:836][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sully/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.24-22.53.00:836][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.24-22.53.00:836][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.24-22.53.00:836][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.24-22.53.00:836][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.24-22.53.00:858][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.24-22.53.00:872][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sully/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.24-22.53.00:872][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.24-22.53.00:872][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.24-22.53.00:908][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.24-22.53.00:910][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.24-22.53.00:934][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.24-22.53.03:317][  0]LogAssetRegistry: FAssetRegistry took 0.0314 seconds to start up
+[2018.10.24-22.53.03:781][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.24-22.53.03:982][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.24-22.53.03:988][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.24-22.53.03:988][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.24-22.53.03:988][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.24-22.53.03:988][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.24-22.53.04:009][  0]LogNetVersion: Icarus 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2122388344)
+[2018.10.24-22.53.04:857][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.177924 seconds
+[2018.10.24-22.53.04:867][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.24-22.53.04:867][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.24-22.53.04:867][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.24-22.53.54:180][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.24-22.53.54:219][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.24-22.53.54:882][  0]SourceControl: Source control is disabled
+[2018.10.24-22.53.54:882][  0]SourceControl: Source control is disabled
+[2018.10.24-22.53.54:884][  0]SourceControl: Source control is disabled
+[2018.10.24-22.53.54:886][  0]SourceControl: Source control is disabled
+[2018.10.24-22.53.55:199][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.24-22.53.55:350][  0]LogOcInput: OculusInput pre-init called
+[2018.10.24-22.53.55:505][  0]LogEngine: Initializing Engine...
+[2018.10.24-22.53.55:507][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.24-22.53.55:509][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.24-22.53.55:509][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.24-22.53.55:509][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.24-22.53.55:509][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.24-22.53.55:808][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.24-22.53.55:832][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.24-22.53.55:848][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.24-22.53.56:293][  0]LogInit: FAudioDevice initialized.
+[2018.10.24-22.53.56:294][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.24-22.53.56:528][  0]LogDerivedDataCache: Saved boot cache 0.23s 87MB C:/Users/sully/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.24-22.53.56:541][  0]LogInit: Texture streaming: Enabled
+[2018.10.24-22.53.56:567][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.24-22.53.56:584][  0]LogInit: Transaction tracking system initialized
+[2018.10.24-22.53.56:618][  0]BlueprintLog: New page: Editor Load
+[2018.10.24-22.53.56:960][  0]LocalizationService: Localization service is disabled
+[2018.10.24-22.53.57:834][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.24-22.53.57:835][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.24-22.53.57:835][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.24-22.53.57:835][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.24-22.53.57:835][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.24-22.53.57:835][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.24-22.53.57:835][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.24-22.53.59:786][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sully/Documents/Unreal Projects/Project-Icarus/Content/' took 0.02s
+[2018.10.24-22.53.59:795][  0]SourceControl: Source control is disabled
+[2018.10.24-22.54.00:785][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.10.24-22.54.00:958][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.10.24-22.54.00:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.10.24-22.54.01:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.10.24-22.54.01:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.10.24-22.54.01:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.10.24-22.54.01:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.10.24-22.54.01:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.10.24-22.54.01:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.10.24-22.54.01:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.10.24-22.54.01:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.10.24-22.54.01:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.10.24-22.54.01:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.10.24-22.54.01:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.10.24-22.54.01:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.10.24-22.54.01:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.10.24-22.54.01:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.10.24-22.54.01:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.10.24-22.54.01:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.10.24-22.54.01:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Fire01.uasset"
+[2018.10.24-22.54.01:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.10.24-22.54.01:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.10.24-22.54.01:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.10.24-22.54.01:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Light01.uasset"
+[2018.10.24-22.54.01:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.10.24-22.54.01:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Light02.uasset"
+[2018.10.24-22.54.02:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.10.24-22.54.02:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.10.24-22.54.02:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.10.24-22.54.02:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.10.24-22.54.02:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.10.24-22.54.04:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.10.24-22.54.04:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.10.24-22.54.04:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.10.24-22.54.05:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.10.24-22.54.05:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Steam01.uasset"
+[2018.10.24-22.54.05:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.10.24-22.54.05:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.10.24-22.54.05:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.10.24-22.54.05:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.10.24-22.54.05:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.10.24-22.54.05:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.10.24-22.54.06:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.10.24-22.54.06:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.10.24-22.54.06:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.10.24-22.54.06:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.10.24-22.54.06:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.10.24-22.54.06:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.10.24-22.54.06:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.10.24-22.54.06:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.10.24-22.54.06:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.10.24-22.54.06:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.10.24-22.54.06:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.10.24-22.54.16:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.10.24-22.54.16:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.10.24-22.54.16:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.10.24-22.54.17:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.10.24-22.54.17:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.10.24-22.54.17:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Maps/StarterMap.umap"
+[2018.10.24-22.54.22:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.10.24-22.54.22:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.10.24-22.54.22:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.10.24-22.54.22:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.10.24-22.54.23:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.10.24-22.54.23:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.10.24-22.54.23:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.10.24-22.54.23:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.10.24-22.54.23:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.10.24-22.54.23:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.10.24-22.54.23:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.10.24-22.54.23:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.10.24-22.54.23:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.10.24-22.54.23:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.10.24-22.54.23:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.10.24-22.54.23:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.10.24-22.54.23:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.10.24-22.54.23:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.10.24-22.54.23:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.10.24-22.54.23:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.10.24-22.54.23:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.10.24-22.54.23:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.10.24-22.54.23:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.10.24-22.54.23:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.10.24-22.54.23:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.10.24-22.54.23:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.10.24-22.54.23:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.10.24-22.54.23:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.10.24-22.54.23:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.10.24-22.54.23:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.10.24-22.54.24:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.10.24-22.54.24:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.10.24-22.54.24:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.10.24-22.54.24:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.10.24-22.54.24:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.10.24-22.54.24:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.10.24-22.54.24:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.10.24-22.54.24:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.10.24-22.54.25:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.10.24-22.54.25:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.10.24-22.54.25:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.10.24-22.54.25:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.10.24-22.54.25:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.10.24-22.54.25:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.10.24-22.54.25:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.10.24-22.54.25:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.10.24-22.54.25:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.10.24-22.54.25:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.10.24-22.54.25:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.10.24-22.54.26:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.10.24-22.54.26:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.10.24-22.54.26:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.10.24-22.54.26:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.10.24-22.54.26:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.10.24-22.54.26:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.10.24-22.54.26:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.10.24-22.54.26:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.10.24-22.54.26:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.10.24-22.54.26:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.10.24-22.54.26:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.10.24-22.54.27:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.10.24-22.54.27:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.10.24-22.54.27:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.10.24-22.54.27:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.10.24-22.54.27:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.10.24-22.54.27:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_Door.uasset"
+[2018.10.24-22.54.27:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.10.24-22.54.27:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.10.24-22.54.27:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.10.24-22.54.27:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.10.24-22.54.27:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.10.24-22.54.27:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.10.24-22.54.27:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.10.24-22.54.27:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.10.24-22.54.28:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.10.24-22.54.28:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.10.24-22.54.28:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.10.24-22.54.29:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.10.24-22.54.29:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.10.24-22.54.29:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.10.24-22.54.29:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.10.24-22.54.29:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.10.24-22.54.29:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.10.24-22.54.29:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.10.24-22.54.29:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.10.24-22.54.29:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.10.24-22.54.29:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.10.24-22.54.29:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.10.24-22.54.29:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.10.24-22.54.29:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.10.24-22.54.29:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.10.24-22.54.29:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.10.24-22.54.29:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.10.24-22.54.29:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.10.24-22.54.29:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.10.24-22.54.29:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.10.24-22.54.30:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.10.24-22.54.30:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.10.24-22.54.30:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.10.24-22.54.30:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.10.24-22.54.30:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.10.24-22.54.30:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.10.24-22.54.30:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.10.24-22.54.30:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.10.24-22.54.30:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.10.24-22.54.30:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.10.24-22.54.30:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.10.24-22.54.30:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.10.24-22.54.31:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.10.24-22.54.31:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.10.24-22.54.33:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.10.24-22.54.35:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.10.24-22.54.37:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.10.24-22.54.40:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.10.24-22.54.42:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.10.24-22.54.42:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.10.24-22.54.42:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.10.24-22.54.44:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.10.24-22.54.46:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.10.24-22.54.47:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.10.24-22.54.48:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.10.24-22.54.49:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.10.24-22.54.50:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.10.24-22.54.50:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.10.24-22.54.50:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.10.24-22.54.50:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.10.24-22.54.50:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.10.24-22.54.50:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.10.24-22.54.50:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.10.24-22.54.50:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.10.24-22.54.50:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.10.24-22.54.53:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.10.24-22.54.53:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.10.24-22.54.54:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.10.24-22.54.55:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.10.24-22.54.56:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.10.24-22.54.59:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.10.24-22.55.02:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.10.24-22.55.07:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.10.24-22.55.10:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.10.24-22.55.15:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.10.24-22.55.15:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.10.24-22.55.17:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.10.24-22.55.17:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.10.24-22.55.18:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.10.24-22.55.19:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.10.24-22.55.20:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.10.24-22.55.20:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.10.24-22.55.20:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.10.24-22.55.21:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.10.24-22.55.21:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.10.24-22.55.21:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.10.24-22.55.21:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.10.24-22.55.21:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.10.24-22.55.21:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.10.24-22.55.21:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.10.24-22.55.22:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.10.24-22.55.22:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.10.24-22.55.24:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.10.24-22.55.29:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.10.24-22.55.29:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.10.24-22.55.29:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.10.24-22.55.32:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.10.24-22.55.34:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.10.24-22.55.34:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.10.24-22.55.34:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.10.24-22.55.35:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.10.24-22.55.36:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.10.24-22.55.38:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.10.24-22.55.38:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.10.24-22.55.39:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.10.24-22.55.40:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.10.24-22.55.43:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.10.24-22.55.44:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.10.24-22.55.44:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.10.24-22.55.44:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.10.24-22.55.44:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.10.24-22.55.45:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.10.24-22.55.48:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.10.24-22.55.51:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.10.24-22.55.52:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.10.24-22.55.53:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.10.24-22.55.54:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.10.24-22.55.54:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.10.24-22.55.55:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.10.24-22.55.55:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.10.24-22.55.55:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.10.24-22.55.55:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.10.24-22.55.55:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.10.24-22.55.55:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.10.24-22.55.55:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.10.24-22.55.55:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.10.24-22.55.55:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.10.24-22.55.55:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.10.24-22.55.55:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.10.24-22.55.55:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.10.24-22.55.55:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.10.24-22.55.56:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.10.24-22.55.56:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.10.24-22.55.56:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.10.24-22.55.56:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.10.24-22.55.56:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.10.24-22.55.57:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.10.24-22.55.57:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.10.24-22.55.57:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.10.24-22.55.57:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.10.24-22.55.58:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.10.24-22.55.59:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.10.24-22.55.59:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.10.24-22.55.59:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.10.24-22.55.59:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.10.24-22.55.59:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.10.24-22.56.00:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.10.24-22.56.00:123][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2018.10.24-22.56.00:127][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.10.24-22.56.00:219][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.10.24-22.56.02:236][  0]LogSavePackage: Moving '../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Saved/Floor_400x400E9D4DD324F54EB37B7C24D88B48B5AC5.tmp' to '../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.10.24-22.56.02:248][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.10.24-22.56.02:253][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.24-22.56.02:255][  0]LightingResults: New page: Lighting Build
+[2018.10.24-22.56.02:262][  0]MapCheck: New page: Map Check
+[2018.10.24-22.56.02:262][  0]LightingResults: New page: Lighting Build
+[2018.10.24-22.56.09:265][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.24-22.56.10:116][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.24-22.56.10:179][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.24-22.56.10:334][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 155.438ms to complete.
+[2018.10.24-22.56.10:334][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 8.081
+[2018.10.24-22.56.11:766][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-22.56.11:867][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-22.56.11:884][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-22.56.11:898][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-22.56.12:042][  0]LogCollectionManager: Loaded 0 collections in 0.002804 seconds
+[2018.10.24-22.56.12:197][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sully/Documents/Unreal Projects/Project-Icarus/Saved/Collections/' took 0.01s
+[2018.10.24-22.56.12:197][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sully/Documents/Unreal Projects/Project-Icarus/Content/Developers/sully/Collections/' took 0.01s
+[2018.10.24-22.56.12:197][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sully/Documents/Unreal Projects/Project-Icarus/Content/Collections/' took 0.01s
+[2018.10.24-22.56.12:197][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.24-22.56.12:217][  0]LogContentBrowser: Native class hierarchy populated in 0.0188 seconds. Added 2572 classes and 603 folders.
+[2018.10.24-22.56.12:344][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.24-22.56.13:988][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.24-22.56.14:187][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.24-22.56.17:158][  0]LogSlate: Took 0.015277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.24-22.56.17:200][  0]LogSlate: Took 0.025232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.24-22.56.17:382][  0]LogSlate: Took 0.029657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.24-22.56.18:077][  0]LogRenderer: Reallocating scene render targets to support 856x396 Format 10 NumSamples 1 (Frame:1).
+[2018.10.24-22.56.19:702][  0]LogSlate: Took 0.013025 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.24-22.56.20:351][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.10.24-22.56.20:351][  0]LogLoad: (Engine Initialization) Total time: 206.80 seconds
+[2018.10.24-22.56.20:351][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.24-22.56.20:700][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.24-22.56.20:751][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.24-22.56.21:321][  2]LogAssetRegistry: Asset discovery search completed in 198.0267 seconds
+[2018.10.24-22.56.21:323][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.24-22.56.21:323][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2018.10.24-22.57.50:264][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-22.57.52:898][292]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-22.57.54:189][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-22.57.54:491][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-22.57.57:667][292]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2018, 8:57:55 AM)
+[2018.10.24-22.57.57:891][292]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.24-22.57.58:871][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.979089s)
+[2018.10.24-22.57.58:993][292]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.24-22.57.59:114][292]LogPlayLevel: PIE: World Init took: (0.122537s)
+[2018.10.24-22.57.59:271][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (1.379691s)
+[2018.10.24-22.58.00:052][292]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.24-22.58.00:310][292]LogInit: FAudioDevice initialized.
+[2018.10.24-22.58.02:022][292]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.24-22.58.03:359][292]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.24-15.58.03
+[2018.10.24-22.58.04:054][292]LogWorld: Bringing up level for play took: 0.897762
+[2018.10.24-22.58.08:106][292]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.1026 seconds. Added 10 classes and 0 folders.
+[2018.10.24-22.58.08:998][292]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 14.602
+[2018.10.24-22.58.08:998][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-22.58.42:234][ 96]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-22.58.42:911][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-22.58.45:269][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-22.58.45:311][ 96]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-22.58.45:842][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-22.58.47:247][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.10.24-22.58.59:524][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-22.59.01:238][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-22.59.19:197][498]LogSlate: Window 'Source Control Login' being destroyed
+[2018.10.24-22.59.27:621][719]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-22.59.28:429][735]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.24-22.59.28:921][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2018.10.24-22.59.32:088][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2018.10.24-22.59.33:284][787]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.24-22.59.40:664][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2018.10.24-22.59.41:536][989]Cmd: DELETE
+[2018.10.24-22.59.41:536][989]Cmd: ACTOR DELETE
+[2018.10.24-22.59.42:265][989]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.24-22.59.42:307][989]LogEditorActor: Deleted 1 Actors (0.151 secs)
+[2018.10.24-22.59.43:685][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2018.10.24-22.59.43:829][ 29]Cmd: DELETE
+[2018.10.24-22.59.43:829][ 29]Cmd: ACTOR DELETE
+[2018.10.24-22.59.43:837][ 29]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.24-22.59.43:862][ 29]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.10.24-22.59.44:701][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2018.10.24-22.59.44:811][ 52]Cmd: DELETE
+[2018.10.24-22.59.44:811][ 52]Cmd: ACTOR DELETE
+[2018.10.24-22.59.44:815][ 52]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.24-22.59.44:847][ 52]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.10.24-22.59.45:978][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2018.10.24-22.59.46:086][ 85]Cmd: DELETE
+[2018.10.24-22.59.46:086][ 85]Cmd: ACTOR DELETE
+[2018.10.24-22.59.46:090][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.24-22.59.46:118][ 85]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.10.24-22.59.48:825][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.24-22.59.50:865][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-23.00.07:769][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-23.00.07:851][629]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-23.00.07:889][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.00.07:890][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-23.00.07:891][629]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2018, 9:00:07 AM)
+[2018.10.24-23.00.07:891][629]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.24-23.00.07:942][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050444s)
+[2018.10.24-23.00.07:945][629]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.24-23.00.07:946][629]LogPlayLevel: PIE: World Init took: (0.003436s)
+[2018.10.24-23.00.07:946][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.054475s)
+[2018.10.24-23.00.08:005][629]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.24-23.00.08:038][629]LogInit: FAudioDevice initialized.
+[2018.10.24-23.00.08:083][629]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.24-23.00.08:087][629]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.24-16.00.08
+[2018.10.24-23.00.08:087][629]LogWorld: Bringing up level for play took: 0.003113
+[2018.10.24-23.00.08:102][629]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.293
+[2018.10.24-23.00.08:103][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.00.18:565][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.00.18:567][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.00.18:690][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-23.00.18:691][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.00.18:717][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.00.18:775][961]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.10.24-23.00.25:479][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-23.01.06:362][216]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.01.06:914][216]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.24-23.01.06:914][216]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.24-23.01.06:914][216]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.24-23.01.06:914][216]LogMaterial: Display: Missing cached shader map for material Handle, compiling. 
+[2018.10.24-23.01.06:975][216]LogMaterial: Display: Missing cached shader map for material GunBodyLight, compiling. 
+[2018.10.24-23.01.07:035][216]LogMaterial: Display: Missing cached shader map for material GlowingGreen, compiling. 
+[2018.10.24-23.01.07:094][216]LogStaticMesh: Building static mesh deckards_blaster...
+[2018.10.24-23.01.07:386][216]LogStaticMesh: Built static mesh [0.29s] /Game/Models/Weapons/Deckards_Blaster/deckards_blaster.deckards_blaster
+[2018.10.24-23.01.07:874][216]LogMaterial: Display: Missing cached shader map for material GlowingRed, compiling. 
+[2018.10.24-23.01.07:892][216]LogMaterial: Display: Missing cached shader map for material GunBodyDark, compiling. 
+[2018.10.24-23.01.07:921][216]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/Weapons/Deckards_Blaster/deckards_blaster.deckards_blaster
+[2018.10.24-23.01.21:145][216]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.10.24-23.02.08:985][811]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.10.24-23.02.11:160][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-23.02.28:733][978]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.10.24-23.02.35:993][ 28]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.10.24-23.03.31:797][523]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.10.24-23.03.34:249][625]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.24-23.03.35:670][690]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.24-23.03.35:831][698]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.24-23.03.39:124][834]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.24-23.03.40:005][873]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.24-23.03.40:711][929]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.24-23.04.59:954][529]LogAssetEditorManager: Opening Asset editor for Material /Game/Models/Weapons/Deckards_Blaster/silver.silver
+[2018.10.24-23.05.00:047][529]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.05.01:334][529]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.05.01:440][529]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.24-23.05.01:440][529]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.24-23.05.01:440][529]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.24-23.05.01:528][529]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.10.24-23.05.01:682][529]LogSlate: Took 0.012396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.24-23.05.02:709][530]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.24-23.05.02:709][530]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.24-23.05.02:779][530]LogSlate: Took 0.062846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.24-23.05.14:542][683]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.24-23.05.16:279][706]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.24-23.05.29:265][874]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.24-23.05.29:777][879]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.05.29:819][879]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.10.24-23.05.30:977][894]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.05.31:038][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.10.24-23.05.31:071][894]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.24-23.05.38:688][991]LogMaterialEditor: Applying material silver
+[2018.10.24-23.05.40:465][991]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.24-23.05.40:466][991]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.24-23.05.40:466][991]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.24-23.05.40:494][991]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.05.40:623][991]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.05.40:675][991]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.05.40:762][991]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy silver, compiling. 
+[2018.10.24-23.05.46:818][991]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.24-23.05.46:819][991]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.24-23.05.46:864][991]TextureStreamingBuild: Display: Compiling optional shaders took 6.129 seconds.
+[2018.10.24-23.05.54:429][ 88]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.05.54:522][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.10.24-23.05.55:182][ 97]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.05.55:243][ 97]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.10.24-23.05.55:275][ 97]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.24-23.05.56:994][115]LogMaterialEditor: Applying material silver
+[2018.10.24-23.05.58:509][115]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.24-23.05.58:539][115]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.05.58:641][115]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.05.58:669][115]LogMaterial: Display: Missing cached shader map for material silver, compiling. 
+[2018.10.24-23.05.58:741][115]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy silver, compiling. 
+[2018.10.24-23.06.07:719][115]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.24-23.06.07:719][115]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.10.24-23.06.07:719][115]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.10.24-23.06.07:719][115]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.10.24-23.06.07:719][115]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.10.24-23.06.07:719][115]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.24-23.06.07:720][115]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.24-23.06.07:724][115]TextureStreamingBuild: Display: Compiling optional shaders took 8.992 seconds.
+[2018.10.24-23.06.18:695][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-23.06.35:149][464]LogSlate: Window 'silver*' being destroyed
+[2018.10.24-23.06.35:164][464]LogSlate: Window 'silver*' being destroyed
+[2018.10.24-23.07.03:288][912]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.24-23.07.04:606][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-23.07.04:683][944]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-23.07.04:712][944]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.07.04:712][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-23.07.04:713][944]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2018, 9:07:04 AM)
+[2018.10.24-23.07.04:713][944]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.24-23.07.04:764][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050149s)
+[2018.10.24-23.07.04:766][944]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.24-23.07.04:767][944]LogPlayLevel: PIE: World Init took: (0.002929s)
+[2018.10.24-23.07.04:767][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.053785s)
+[2018.10.24-23.07.04:818][944]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.24-23.07.04:870][944]LogInit: FAudioDevice initialized.
+[2018.10.24-23.07.04:909][944]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.24-23.07.04:912][944]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.24-16.07.04
+[2018.10.24-23.07.04:913][944]LogWorld: Bringing up level for play took: 0.003188
+[2018.10.24-23.07.04:926][944]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.531
+[2018.10.24-23.07.04:927][944]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.07.10:195][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.07.10:195][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.07.10:254][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-23.07.10:255][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.07.10:280][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.07.10:325][110]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.24-23.07.20:574][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-23.07.20:664][204]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-23.07.20:700][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.07.20:700][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-23.07.20:700][204]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2018, 9:07:20 AM)
+[2018.10.24-23.07.20:700][204]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.24-23.07.20:732][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031340s)
+[2018.10.24-23.07.20:733][204]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.24-23.07.20:734][204]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2018.10.24-23.07.20:734][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033119s)
+[2018.10.24-23.07.20:759][204]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.24-23.07.20:776][204]LogInit: FAudioDevice initialized.
+[2018.10.24-23.07.20:807][204]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.24-23.07.20:809][204]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.24-16.07.20
+[2018.10.24-23.07.20:809][204]LogWorld: Bringing up level for play took: 0.002106
+[2018.10.24-23.07.20:822][204]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.427
+[2018.10.24-23.07.20:823][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.07.23:726][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.07.23:728][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.07.23:777][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-23.07.23:777][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.07.23:809][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.07.23:857][292]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.10.24-23.07.25:957][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-23.07.37:336][498]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.10.24-23.07.47:856][498]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0135 seconds. Added 116 classes and 0 folders.
+[2018.10.24-23.08.05:689][553]LogSavePackage: Moving '../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Saved/ThirdPersonExampleMap_Auto1D2073B2D4D10943B27BA0EAB2BBFF906.tmp' to '../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.10.24-23.08.05:809][553]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 2.366
+[2018.10.24-23.08.05:809][553]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.366
+[2018.10.24-23.08.05:882][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Weapons/Deckards_Blaster/silver] ([1] browsable assets)...
+[2018.10.24-23.08.05:923][553]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Weapons/Deckards_Blaster/silver.silver]
+[2018.10.24-23.08.05:923][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Weapons/Deckards_Blaster/silver]
+[2018.10.24-23.08.06:017][553]LogSavePackage: Moving '../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Saved/silver_Auto17CDAF05C42C66985A69E79B668ABBA7D.tmp' to '../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Saved/Autosaves/Game/Models/Weapons/Deckards_Blaster/silver_Auto1.uasset'
+[2018.10.24-23.08.06:020][553]LogFileHelpers: Auto-saving content packages took 0.210
+[2018.10.24-23.08.40:826][295]LogSlate: Took 0.067782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.24-23.09.10:041][889]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.24-23.09.29:469][303]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.24-23.09.48:387][690]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2018.10.24-23.10.01:272][825]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.24-23.10.02:943][845]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Icarus
+[2018.10.24-23.10.02:943][845]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.24-23.10.02:943][845]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.24-23.10.02:943][845]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.24-23.10.02:983][846]LogTemp: BranchPath = LAPTOP-C1UGBE6K/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = LAPTOP-C1UGBE6K/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.24-23.10.03:659][863]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\sully\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.24-23.10.27:994][444]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.24-23.10.28:011][444]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.24-23.11.51:839][293]LogRenderer: Reallocating scene render targets to support 856x496 Format 10 NumSamples 1 (Frame:1).
+[2018.10.24-23.12.11:706][157]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-23.12.11:739][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.12.11:739][157]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.24-23.12.11:752][157]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.10.24-23.12.12:032][157]LogPlayLevel: PlayLevel: Blueprint regeneration took 293 ms (1 blueprints)
+[2018.10.24-23.12.12:032][157]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2018, 9:12:12 AM)
+[2018.10.24-23.12.12:032][157]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.24-23.12.12:048][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015942s)
+[2018.10.24-23.12.12:050][157]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.24-23.12.12:050][157]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2018.10.24-23.12.12:050][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017612s)
+[2018.10.24-23.12.12:088][157]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.24-23.12.12:108][157]LogInit: FAudioDevice initialized.
+[2018.10.24-23.12.12:114][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.12.12:151][157]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.24-23.12.12:155][157]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.24-16.12.12
+[2018.10.24-23.12.12:155][157]LogWorld: Bringing up level for play took: 0.003191
+[2018.10.24-23.12.12:170][157]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.225
+[2018.10.24-23.12.12:171][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.12.12:333][157]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.10.24-23.12.19:817][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.12.19:817][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.12.19:853][285]LogSlate: Window 'Icarus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.24-23.12.19:948][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-23.12.19:949][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.12.20:031][286]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.10.24-23.12.54:095][593]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.24-23.12.58:310][925]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.24-23.12.58:343][925]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a ThirdPerson_AnimBP_C, therefore ' Target ' must have a connection.
+[2018.10.24-23.12.58:376][925]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Variable node  Set Speed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.10.24-23.12.58:649][925]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [1205.09] Compile of ThirdPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 339 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.10.24-23.14.18:566][514]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.24-23.16.28:580][209]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.24-23.16.35:478][881]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.24-23.16.36:708][975]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-23.16.36:730][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.16.36:730][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-23.16.36:730][975]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2018, 9:16:36 AM)
+[2018.10.24-23.16.36:730][975]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.24-23.16.36:747][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017896s)
+[2018.10.24-23.16.36:748][975]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.24-23.16.36:749][975]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2018.10.24-23.16.36:749][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019505s)
+[2018.10.24-23.16.36:790][975]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.24-23.16.36:813][975]LogInit: FAudioDevice initialized.
+[2018.10.24-23.16.36:819][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.16.36:859][975]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.24-23.16.36:863][975]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.24-16.16.36
+[2018.10.24-23.16.36:864][975]LogWorld: Bringing up level for play took: 0.004076
+[2018.10.24-23.16.36:883][975]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.488
+[2018.10.24-23.16.36:884][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.17.03:840][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.17.03:842][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.17.03:895][461]LogSlate: Window 'Icarus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.24-23.17.03:970][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-23.17.03:970][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.17.04:107][462]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.10.24-23.17.23:838][357]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.24-23.17.24:664][402]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-23.17.24:698][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.17.24:698][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-23.17.24:698][402]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2018, 9:17:24 AM)
+[2018.10.24-23.17.24:698][402]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.24-23.17.24:712][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013525s)
+[2018.10.24-23.17.24:713][402]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.24-23.17.24:713][402]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2018.10.24-23.17.24:713][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014973s)
+[2018.10.24-23.17.24:747][402]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.24-23.17.24:764][402]LogInit: FAudioDevice initialized.
+[2018.10.24-23.17.24:770][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.17.24:803][402]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.24-23.17.24:806][402]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.24-16.17.24
+[2018.10.24-23.17.24:806][402]LogWorld: Bringing up level for play took: 0.002347
+[2018.10.24-23.17.24:820][402]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.425
+[2018.10.24-23.17.24:821][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.17.25:995][421]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.28:787][471]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.29:461][483]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.30:632][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.30:986][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.31:281][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.31:733][522]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.32:464][535]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.32:678][539]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.33:162][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.33:558][555]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.34:161][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.34:428][571]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.34:647][575]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.35:103][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.35:709][594]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.36:038][600]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.36:259][604]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.36:426][607]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 900.0
+[2018.10.24-23.17.37:277][622]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.17.37:277][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.17.37:309][622]LogSlate: Window 'Icarus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.24-23.17.37:456][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-23.17.37:456][622]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.17.37:900][623]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.10.24-23.17.38:041][623]LogSlate: Took 0.134286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.10.24-23.18.32:551][665]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-23.18.32:566][665]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.18.32:566][665]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.24-23.18.32:579][665]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.10.24-23.18.32:788][665]LogPlayLevel: PlayLevel: Blueprint regeneration took 221 ms (1 blueprints)
+[2018.10.24-23.18.32:789][665]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2018, 9:18:32 AM)
+[2018.10.24-23.18.32:789][665]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.24-23.18.32:801][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012637s)
+[2018.10.24-23.18.32:802][665]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.24-23.18.32:803][665]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2018.10.24-23.18.32:803][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014080s)
+[2018.10.24-23.18.32:837][665]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.24-23.18.32:854][665]LogInit: FAudioDevice initialized.
+[2018.10.24-23.18.32:860][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.18.32:891][665]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.24-23.18.32:894][665]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.24-16.18.32
+[2018.10.24-23.18.32:895][665]LogWorld: Bringing up level for play took: 0.002975
+[2018.10.24-23.18.32:908][665]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.513
+[2018.10.24-23.18.32:909][665]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.19.16:015][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.19.16:016][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.19.16:066][440]LogSlate: Window 'Icarus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.24-23.19.16:126][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-23.19.16:126][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.19.16:236][441]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.24-23.20.16:923][400]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-23.20.17:027][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.20.17:027][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-23.20.17:028][400]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2018, 9:20:17 AM)
+[2018.10.24-23.20.17:028][400]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.24-23.20.17:053][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025093s)
+[2018.10.24-23.20.17:054][400]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.24-23.20.17:055][400]LogPlayLevel: PIE: World Init took: (0.001966s)
+[2018.10.24-23.20.17:055][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027402s)
+[2018.10.24-23.20.17:125][400]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.24-23.20.17:156][400]LogInit: FAudioDevice initialized.
+[2018.10.24-23.20.17:196][400]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.24-23.20.17:199][400]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.24-16.20.17
+[2018.10.24-23.20.17:200][400]LogWorld: Bringing up level for play took: 0.003368
+[2018.10.24-23.20.17:214][400]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.818
+[2018.10.24-23.20.17:214][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.20.55:177][541]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.20.55:179][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.20.55:242][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-23.20.55:243][541]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.20.55:310][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.20.55:360][542]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.10.24-23.20.57:329][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-23.22.06:384][102]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-23.22.06:424][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.22.06:424][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-23.22.06:424][102]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2018, 9:22:06 AM)
+[2018.10.24-23.22.06:424][102]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.24-23.22.06:456][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031243s)
+[2018.10.24-23.22.06:457][102]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.24-23.22.06:458][102]LogPlayLevel: PIE: World Init took: (0.002008s)
+[2018.10.24-23.22.06:458][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033605s)
+[2018.10.24-23.22.06:536][102]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.24-23.22.06:574][102]LogInit: FAudioDevice initialized.
+[2018.10.24-23.22.06:614][102]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.24-23.22.06:618][102]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.24-16.22.06
+[2018.10.24-23.22.06:619][102]LogWorld: Bringing up level for play took: 0.004102
+[2018.10.24-23.22.06:634][102]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.238
+[2018.10.24-23.22.06:635][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.22.18:422][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.22.18:423][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.22.18:491][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-23.22.18:491][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.24-23.22.18:547][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-23.22.18:594][458]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.10.24-23.22.19:681][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-23.22.35:637][839]LogSavePackage: Moving '../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Saved/ThirdPersonExampleMap59804FD14700C705A17F29AEF3FAFC2C.tmp' to '../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.10.24-23.22.35:655][839]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.516
+[2018.10.24-23.22.35:852][839]LogSavePackage: Moving '../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Saved/ThirdPersonCharacter9A30D9AA481EA92C298A0CA0E58F9189.tmp' to '../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.10.24-23.22.35:872][839]LogSavePackage: Moving '../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Saved/silver31D1921A4621C3A6C9D3F7B21CC8F13C.tmp' to '../../../../../../Users/sully/Documents/Unreal Projects/Project-Icarus/Content/Models/Weapons/Deckards_Blaster/silver.uasset'
+[2018.10.24-23.22.41:023][956]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.10.24-23.22.56:254][956]LogSlate: Window 'Submit Files' being destroyed
+[2018.10.24-23.23.05:610][956]LogSourceControl: commit successful: [master 10096fd] I AM SPEED
+[2018.10.24-23.23.06:062][956]SourceControl: [master 10096fd] I AM SPEED
+[2018.10.24-23.23.06:062][956]SourceControl:  6 files changed, 4 insertions(+), 1 deletion(-)
+[2018.10.24-23.23.06:062][956]SourceControl:  rewrite Content/Models/Weapons/Deckards_Blaster/silver.uasset (98%)
+[2018.10.24-23.23.06:062][956]SourceControl:  rewrite Content/StarterContent/Architecture/Floor_400x400.uasset (88%)
+[2018.10.24-23.23.06:062][956]SourceControl:  rewrite Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (89%)
+[2018.10.24-23.23.06:068][956]SourceControl: Commited [master 10096fd] I AM SPEED.
